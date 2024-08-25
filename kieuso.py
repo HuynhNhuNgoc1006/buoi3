@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 25 13:13:12 2024
+Created on Sun Aug 25 20:17:04 2024
 
-@author: Student
+@author: LENOVO
 """
 
-import math
-varl=10
-print("Gía trị varl=",varl,"\n\tKiểu:",type(varl))
-var2=float(varl)
-print("Gía trị var2=",var2,"\n\tKiểu:",type(var2))
-var3=3+4j
-print("Gía trị var3=",var3,"\n\tKiểu:",type(var3))
-var4=complex(var2)
-print("Gía trị var4=",var4,"\n\tKiểu:",type(var4))
+a=10
+b=3
+print("a+b=",a+b)
+print("a-b=",a-b)
+print("a*b=",a*b)
+print("a/b=",a/b)
+print("a%b=",a%b)
+print("a//b=",a//b)
+x=3
+print("a^x=",a**x)
